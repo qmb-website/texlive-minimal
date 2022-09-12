@@ -1,0 +1,1558 @@
+TeX Live installer invocation: ./install-tl 
+Trying to verify cryptographic signatures!
+Loading ./tlpkg/texlive.tlpdb
+./install-tl: No scheme-full, switching to scheme-minimal.
+Installing TeX Live 2022 from: . (not verified)
+Platform: x86_64-linux => 'GNU/Linux on x86_64'
+Distribution: live (uncompressed)
+Directory for temporary files: /tmp/qGI49s3YVv
+Installer revision: 63919
+Database revision: 
+Settings:
+  TEXDIR: "/home/waov2/texlive-2"
+  TEXMFCONFIG: "$TEXMFSYSCONFIG"
+  TEXMFHOME: "$TEXMFLOCAL"
+  TEXMFLOCAL: "/home/waov2/texlive-2/texmf-local"
+  TEXMFSYSCONFIG: "/home/waov2/texlive-2/texmf-config"
+  TEXMFSYSVAR: "/home/waov2/texlive-2/texmf-var"
+  TEXMFVAR: "$TEXMFSYSVAR"
+  binary_x86_64-linux: "1"
+  collection-basic: "1"
+  collection-latex: "1"
+  collection-latexrecommended: ""
+  collection-metapost: ""
+  collection-wintools: ""
+  collection-xetex: ""
+  doc_splitting_supported: "1"
+  free_size: "296673"
+  inst_platform: "x86_64-linux"
+  instopt_adjustpath: "1"
+  instopt_adjustrepo: "1"
+  instopt_letter: ""
+  instopt_portable: "1"
+  instopt_write18_restricted: "1"
+  n_collections_available: "5"
+  n_collections_selected: "2"
+  n_systems_available: "1"
+  n_systems_selected: "1"
+  page: ""
+  scheme-basic: "1"
+  scheme-infraonly: ""
+  scheme-minimal: ""
+  scheme-small: ""
+  selected_scheme: "scheme-basic"
+  src_splitting_supported: "1"
+  this_platform: "x86_64-linux"
+  tlpdbopt_autobackup: "1"
+  tlpdbopt_backupdir: "tlpkg/backups"
+  tlpdbopt_create_formats: "1"
+  tlpdbopt_desktop_integration: "1"
+  tlpdbopt_file_assocs: "1"
+  tlpdbopt_generate_updmap: ""
+  tlpdbopt_install_docfiles: ""
+  tlpdbopt_install_srcfiles: ""
+  tlpdbopt_location: "https://anorien.csc.warwick.ac.uk/mirrors/CTAN/systems/texlive/tlnet"
+  tlpdbopt_post_code: "1"
+  tlpdbopt_sys_bin: "/usr/local/bin"
+  tlpdbopt_sys_info: "/usr/local/share/info"
+  tlpdbopt_sys_man: "/usr/local/share/man"
+  tlpdbopt_w32_multi_user: "1"
+  total_size: "110"
+Installing to: /home/waov2/texlive-2
+Installing [1/4, time/total: ??:??/??:??]: hyphen-base [97k]
+Installing [2/4, time/total: 00:00/00:00]: kpathsea [209k]
+Installing [3/4, time/total: 00:00/00:00]: texlive-scripts [653k]
+Installing [4/4, time/total: 00:00/00:00]: texlive.infra [1281k]
+Time used for installing the packages: 00:00
+Installing [001/124, time/total: ??:??/??:??]: ae [629k]
+Installing [002/124, time/total: 00:01/02:55]: amscls [317k]
+Installing [003/124, time/total: 00:01/01:57]: amsfonts [7517k]
+Installing [004/124, time/total: 00:04/00:52]: amsmath [281k]
+Installing [005/124, time/total: 00:04/00:50]: atbegshi [29k]
+Installing [006/124, time/total: 00:04/00:50]: atveryend [21k]
+Installing [007/124, time/total: 00:04/00:50]: auxhook [5k]
+Installing [008/124, time/total: 00:04/00:50]: babel [4141k]
+Installing [009/124, time/total: 00:08/01:08]: babel-english [37k]
+Installing [010/124, time/total: 00:08/01:08]: babelbib [853k]
+Installing [011/124, time/total: 00:08/01:03]: bibtex [205k]
+Installing [012/124, time/total: 00:09/01:10]: bibtex.x86_64-linux [173k]
+Installing [013/124, time/total: 00:09/01:10]: bigintcalc [41k]
+Installing [014/124, time/total: 00:09/01:09]: bitset [37k]
+Installing [015/124, time/total: 00:09/01:09]: bookmark [101k]
+Installing [016/124, time/total: 00:09/01:09]: carlisle [33k]
+Installing [017/124, time/total: 00:09/01:09]: cm [1361k]
+Installing [018/124, time/total: 00:10/01:10]: collection-basic [1k]
+Installing [019/124, time/total: 00:10/01:10]: collection-latex [1k]
+Installing [020/124, time/total: 00:10/01:10]: colorprofiles [133k]
+Installing [021/124, time/total: 00:10/01:09]: colortbl [17k]
+Installing [022/124, time/total: 00:10/01:09]: dehyph [229k]
+Installing [023/124, time/total: 00:10/01:08]: dvipdfmx [165k]
+Installing [024/124, time/total: 00:10/01:07]: dvipdfmx.x86_64-linux [1033k]
+Installing [025/124, time/total: 00:10/01:03]: dvips [553k]
+Installing [026/124, time/total: 00:10/01:01]: dvips.x86_64-linux [393k]
+Installing [027/124, time/total: 00:10/01:00]: ec [5781k]
+Installing [028/124, time/total: 00:16/01:13]: enctex [249k]
+Installing [029/124, time/total: 00:17/01:17]: epstopdf-pkg [25k]
+Installing [030/124, time/total: 00:17/01:17]: etex [45k]
+Installing [031/124, time/total: 00:17/01:17]: etex-pkg [21k]
+Installing [032/124, time/total: 00:17/01:17]: etexcmds [9k]
+Installing [033/124, time/total: 00:17/01:16]: everyshi [9k]
+Installing [034/124, time/total: 00:17/01:16]: fancyhdr [29k]
+Installing [035/124, time/total: 00:17/01:16]: firstaid [17k]
+Installing [036/124, time/total: 00:17/01:16]: fix2col [9k]
+Installing [037/124, time/total: 00:17/01:16]: geometry [45k]
+Installing [038/124, time/total: 00:17/01:16]: gettitlestring [13k]
+Installing [039/124, time/total: 00:17/01:16]: glyphlist [97k]
+Installing [040/124, time/total: 00:17/01:16]: graphics [145k]
+Installing [041/124, time/total: 00:17/01:15]: graphics-cfg [9k]
+Installing [042/124, time/total: 00:17/01:15]: graphics-def [89k]
+Installing [043/124, time/total: 00:17/01:15]: grfext [9k]
+Installing [044/124, time/total: 00:17/01:15]: grffile [21k]
+Installing [045/124, time/total: 00:17/01:15]: hopatch [13k]
+Installing [046/124, time/total: 00:17/01:15]: hycolor [29k]
+Installing [047/124, time/total: 00:17/01:15]: hyperref [817k]
+Installing [048/124, time/total: 00:17/01:12]: hyph-utf8 [101k]
+Installing [049/124, time/total: 00:17/01:12]: hyphenex [29k]
+Installing [050/124, time/total: 00:17/01:12]: ifplatform [5k]
+Installing [051/124, time/total: 00:17/01:12]: iftex [29k]
+Installing [052/124, time/total: 00:17/01:12]: infwarerr [13k]
+Installing [053/124, time/total: 00:17/01:12]: intcalc [33k]
+Installing [054/124, time/total: 00:17/01:12]: knuth-lib [189k]
+Installing [055/124, time/total: 00:18/01:16]: knuth-local [213k]
+Installing [056/124, time/total: 00:18/01:15]: kpathsea.x86_64-linux [141k]
+Installing [057/124, time/total: 00:18/01:15]: kvdefinekeys [9k]
+Installing [058/124, time/total: 00:18/01:15]: kvoptions [41k]
+Installing [059/124, time/total: 00:18/01:14]: kvsetkeys [17k]
+Installing [060/124, time/total: 00:18/01:14]: l3backend [201k]
+Installing [061/124, time/total: 00:18/01:14]: l3kernel [1421k]
+Installing [062/124, time/total: 00:18/01:10]: l3packages [265k]
+Installing [063/124, time/total: 00:18/01:09]: latex [2557k]
+Installing [064/124, time/total: 00:19/01:07]: latex-bin [1k]
+Installing [065/124, time/total: 00:19/01:07]: latex-bin.x86_64-linux [17k]
+Installing [066/124, time/total: 00:19/01:07]: latex-fonts [245k]
+Installing [067/124, time/total: 00:19/01:07]: latex-lab [65k]
+Installing [068/124, time/total: 00:19/01:07]: latexconfig [29k]
+Installing [069/124, time/total: 00:19/01:06]: letltxmacro [9k]
+Installing [070/124, time/total: 00:19/01:06]: lm [42581k]
+Installing [071/124, time/total: 00:26/00:38]: ltxcmds [21k]
+Installing [072/124, time/total: 00:26/00:38]: ltxmisc [69k]
+Installing [073/124, time/total: 00:26/00:38]: lua-alt-getopt [5k]
+Installing [074/124, time/total: 00:26/00:38]: lua-uni-algos [45k]
+Installing [075/124, time/total: 00:26/00:38]: luahbtex [1k]
+Installing [076/124, time/total: 00:26/00:38]: luahbtex.x86_64-linux [7749k]
+Installing [077/124, time/total: 00:26/00:35]: lualibs [769k]
+Installing [078/124, time/total: 00:26/00:34]: luaotfload [7637k]
+Installing [079/124, time/total: 00:28/00:34]: luaotfload.x86_64-linux [5k]
+Installing [080/124, time/total: 00:28/00:34]: luatex [149k]
+Installing [081/124, time/total: 00:28/00:34]: luatex.x86_64-linux [6449k]
+Installing [082/124, time/total: 00:28/00:31]: makeindex [37k]
+Installing [083/124, time/total: 00:28/00:31]: makeindex.x86_64-linux [153k]
+Installing [084/124, time/total: 00:28/00:31]: metafont [53k]
+Installing [085/124, time/total: 00:28/00:31]: metafont.x86_64-linux [705k]
+Installing [086/124, time/total: 00:28/00:31]: mflogo [17k]
+Installing [087/124, time/total: 00:28/00:31]: mfnfss [33k]
+Installing [088/124, time/total: 00:28/00:31]: mfware [17k]
+Installing [089/124, time/total: 00:28/00:31]: mfware.x86_64-linux [613k]
+Installing [090/124, time/total: 00:28/00:31]: modes [97k]
+Installing [091/124, time/total: 00:28/00:31]: mptopdf [173k]
+Installing [092/124, time/total: 00:28/00:31]: mptopdf.x86_64-linux [5k]
+Installing [093/124, time/total: 00:28/00:31]: natbib [133k]
+Installing [094/124, time/total: 00:28/00:31]: oberdiek [421k]
+Installing [095/124, time/total: 00:29/00:32]: pagesel [17k]
+Installing [096/124, time/total: 00:29/00:32]: pdfescape [21k]
+Installing [097/124, time/total: 00:29/00:32]: pdftex [261k]
+Installing [098/124, time/total: 00:29/00:32]: pdftex.x86_64-linux [2217k]
+Installing [099/124, time/total: 00:29/00:31]: pdftexcmds [33k]
+Installing [100/124, time/total: 00:29/00:31]: plain [161k]
+Installing [101/124, time/total: 00:29/00:31]: pslatex [37k]
+Installing [102/124, time/total: 00:29/00:31]: psnfss [441k]
+Installing [103/124, time/total: 00:29/00:31]: pspicture [9k]
+Installing [104/124, time/total: 00:29/00:31]: refcount [13k]
+Installing [105/124, time/total: 00:29/00:31]: rerunfilecheck [13k]
+Installing [106/124, time/total: 00:29/00:31]: stringenc [433k]
+Installing [107/124, time/total: 00:30/00:32]: symbol [101k]
+Installing [108/124, time/total: 00:30/00:32]: tex [1k]
+Installing [109/124, time/total: 00:30/00:32]: tex-ini-files [33k]
+Installing [110/124, time/total: 00:30/00:32]: tex.x86_64-linux [385k]
+Installing [111/124, time/total: 00:30/00:32]: texlive-common [1k]
+Installing [112/124, time/total: 00:30/00:32]: texlive-en [1k]
+Installing [113/124, time/total: 00:30/00:32]: texlive-msg-translations [1493k]
+Installing [114/124, time/total: 00:30/00:31]: texlive-scripts.x86_64-linux [53k]
+Installing [115/124, time/total: 00:30/00:31]: texlive.infra.x86_64-linux [341k]
+Installing [116/124, time/total: 00:30/00:31]: tlshell [137k]
+Installing [117/124, time/total: 00:30/00:31]: tlshell.x86_64-linux [5k]
+Installing [118/124, time/total: 00:30/00:31]: tools [485k]
+Installing [119/124, time/total: 00:30/00:31]: unicode-data [3125k]
+Installing [120/124, time/total: 00:31/00:31]: uniquecounter [9k]
+Installing [121/124, time/total: 00:31/00:31]: url [17k]
+Installing [122/124, time/total: 00:31/00:31]: xdvi [37k]
+Installing [123/124, time/total: 00:31/00:31]: xdvi.x86_64-linux [1297k]
+Installing [124/124, time/total: 00:31/00:31]: zapfding [97k]
+Time used for installing the packages: 00:31
+running mktexlsr /home/waov2/texlive-2/texmf-dist ...
+writing fmtutil.cnf to /home/waov2/texlive-2/texmf-dist/web2c/fmtutil.cnf
+writing updmap.cfg to /home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg
+writing language.dat to /home/waov2/texlive-2/texmf-var/tex/generic/config/language.dat
+writing language.def to /home/waov2/texlive-2/texmf-var/tex/generic/config/language.def
+writing language.dat.lua to /home/waov2/texlive-2/texmf-var/tex/generic/config/language.dat.lua
+running mktexlsr /home/waov2/texlive-2/texmf-var /home/waov2/texlive-2/texmf-config /home/waov2/texlive-2/texmf-dist ...
+running updmap-sys --nohash ...done
+updmap will read the following updmap.cfg files (in precedence order):
+  /home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg
+updmap may write changes to the following updmap.cfg file:
+  /home/waov2/texlive-2/texmf-config/web2c/updmap.cfg
+dvips output dir: "/home/waov2/texlive-2/texmf-var/fonts/map/dvips/updmap"
+pdftex output dir: "/home/waov2/texlive-2/texmf-var/fonts/map/pdftex/updmap"
+dvipdfmx output dir: "/home/waov2/texlive-2/texmf-var/fonts/map/dvipdfmx/updmap"
+
+updmap is creating new map files
+using the following configuration:
+  LW35 font names                  : URWkb (/home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg)
+  prefer outlines                  : true (/home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg)
+  texhash enabled                  : false
+  download standard fonts (dvips)  : true (/home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg)
+  download standard fonts (pdftex) : true (/home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg)
+  jaEmbed replacement string       : haranoaji (/home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg)
+  jaVariant replacement string     : -04 (/home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg)
+  scEmbed replacement string       : arphic (/home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg)
+  tcEmbed replacement string       : arphic (/home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg)
+  koEmbed replacement string       : baekmuk (/home/waov2/texlive-2/texmf-dist/web2c/updmap.cfg)
+  create a mapfile for pxdvi       : false (default)
+
+Scanning for LW35 support files  [  3 files]
+Scanning for MixedMap entries    [  6 files]
+Scanning for KanjiMap entries    [  0 files]
+Scanning for Map entries         [ 10 files]
+
+Generating output for dvipdfmx...
+Generating output for ps2pk...
+Generating output for dvips...
+Generating output for pdftex...
+
+Files generated:
+  /home/waov2/texlive-2/texmf-var/fonts/map/dvips/updmap:
+       15792 2022-08-25 12:26:21 builtin35.map
+       21265 2022-08-25 12:26:21 download35.map
+       72208 2022-08-25 12:26:21 psfonts_pk.map
+       76059 2022-08-25 12:26:21 psfonts_t1.map
+       76054 2022-08-25 12:26:21 ps2pk.map
+          14 2022-08-25 12:26:21 psfonts.map -> psfonts_t1.map
+  /home/waov2/texlive-2/texmf-var/fonts/map/pdftex/updmap:
+       76061 2022-08-25 12:26:21 pdftex_dl14.map
+       74396 2022-08-25 12:26:21 pdftex_ndl14.map
+          15 2022-08-25 12:26:21 pdftex.map -> pdftex_dl14.map
+  /home/waov2/texlive-2/texmf-var/fonts/map/dvipdfmx/updmap:
+         315 2022-08-25 12:26:21 kanjix.map
+
+Transcript written on: /home/waov2/texlive-2/texmf-var/web2c/updmap.log
+re-running mktexlsr /home/waov2/texlive-2/texmf-var /home/waov2/texlive-2/texmf-config ...
+pre-generating all format files, be patient...
+running fmtutil-sys --no-error-if-no-engine=luajithbtex,luajittex,mfluajit --no-strict --all ...done
+fmtutil: fmtutil is using the following fmtutil.cnf files (in precedence order):
+fmtutil:   /home/waov2/texlive-2/texmf-dist/web2c/fmtutil.cnf
+fmtutil: fmtutil is using the following fmtutil.cnf file for writing changes:
+fmtutil:   /home/waov2/texlive-2/texmf-config/web2c/fmtutil.cnf
+fmtutil [INFO]: writing formats under /home/waov2/texlive-2/texmf-var/web2c
+fmtutil [INFO]: --- remaking luahbtex with luahbtex
+fmtutil: running `luahbtex -ini   -jobname=luahbtex -progname=luahbtex luatex.ini' ...
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (INITEX)
+ restricted system commands enabled.
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/luatex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/luatexconfig.tex
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/pdftexconfig.tex))
+(/home/waov2/texlive-2/texmf-dist/tex/generic/config/luatexiniconfig.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/unicode-data/load-unicode-data.te
+x 
+load-unicode-data.tex v1.15 (2021-09-15)
+Reading Unicode data
+# UnicodeData-14.0.0.txt
+# Modified 2021-09-15 11:00:00 GMT [JAW]
+) (/home/waov2/texlive-2/texmf-dist/tex/luatex/hyph-utf8/etex.src
+(/home/waov2/texlive-2/texmf-dist/tex/plain/base/plain.tex
+Preloading the plain format: codes, registers, parameters, fonts, more fonts,
+macros, math definitions, output routines, hyphenation
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/home/waov2/texlive-2/texmf-dist/tex/plain/etex/etexdefs.lib
+Skipping module "grouptypes"; Loading module "interactionmodes";
+Skipping module "nodetypes"; Skipping module "iftypes";)
+(/home/waov2/texlive-2/texmf-var/tex/generic/config/language.def
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,))
+Beginning to dump on file luahbtex.fmt
+ (format=luahbtex 2022.8.25)
+3382 strings using 10294 bytes
+68809 memory locations dumped; current usage is 149&7701
+1880 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+50 preloaded fonts
+warning  (pdf backend): no pages of output.
+Transcript written on luahbtex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/luahbtex/luahbtex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/luahbtex/luahbtex.fmt installed.
+fmtutil [INFO]: --- remaking tex with tex
+fmtutil: running `tex -ini   -jobname=tex -progname=tex tex.ini' ...
+This is TeX, Version 3.141592653 (TeX Live 2022) (INITEX)
+(/home/waov2/texlive-2/texmf-dist/tex/plain/config/tex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/plain/base/plain.tex
+Preloading the plain format: codes, registers, parameters, fonts, more fonts,
+macros, math definitions, output routines, hyphenation
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex)) )
+Beginning to dump on file tex.fmt
+ (preloaded format=tex 2022.8.25)
+2028 strings of total length 29362
+4991 memory locations dumped; current usage is 110&4878
+926 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+14787 words of font info for 50 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6075 has 181 ops out of 35111
+  181 for language 0
+No pages of output.
+Transcript written on tex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/tex/tex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/tex/tex.fmt installed.
+fmtutil [INFO]: --- remaking pdftex with pdftex
+fmtutil: running `pdftex -ini   -jobname=pdftex -progname=pdftex -translate-file=cp227.tcx *pdfetex.ini' ...
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (INITEX)
+ restricted \write18 enabled.
+ (/home/waov2/texlive-2/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+(/home/waov2/texlive-2/texmf-dist/tex/plain/config/pdfetex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/pdftexconfig.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/plain/etex/etex.src
+(/home/waov2/texlive-2/texmf-dist/tex/plain/base/plain.tex
+Preloading the plain format: codes, registers, parameters, fonts, more fonts,
+macros, math definitions, output routines, hyphenation
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/home/waov2/texlive-2/texmf-dist/tex/plain/etex/etexdefs.lib
+Skipping module "grouptypes"; Loading module "interactionmodes";
+Skipping module "nodetypes"; Skipping module "iftypes";)
+(/home/waov2/texlive-2/texmf-var/tex/generic/config/language.def
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,)
+(/home/waov2/texlive-2/texmf-dist/tex/plain/config/pdftexmagfix.tex) )
+Beginning to dump on file pdftex.fmt
+ (preloaded format=pdftex 2022.8.25)
+2926 strings of total length 43753
+7961 memory locations dumped; current usage is 203&7322
+1272 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+14787 words of font info for 50 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6075 has 181 ops out of 35111
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on pdftex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/pdftex/pdftex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/pdftex/pdftex.fmt installed.
+fmtutil [INFO]: --- remaking luatex with luatex
+fmtutil: running `luatex -ini   -jobname=luatex -progname=luatex luatex.ini' ...
+This is LuaTeX, Version 1.15.0 (TeX Live 2022)  (INITEX)
+ restricted system commands enabled.
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/luatex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/luatexconfig.tex
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/pdftexconfig.tex))
+(/home/waov2/texlive-2/texmf-dist/tex/generic/config/luatexiniconfig.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/unicode-data/load-unicode-data.te
+x 
+load-unicode-data.tex v1.15 (2021-09-15)
+Reading Unicode data
+# UnicodeData-14.0.0.txt
+# Modified 2021-09-15 11:00:00 GMT [JAW]
+) (/home/waov2/texlive-2/texmf-dist/tex/luatex/hyph-utf8/etex.src
+(/home/waov2/texlive-2/texmf-dist/tex/plain/base/plain.tex
+Preloading the plain format: codes, registers, parameters, fonts, more fonts,
+macros, math definitions, output routines, hyphenation
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/home/waov2/texlive-2/texmf-dist/tex/plain/etex/etexdefs.lib
+Skipping module "grouptypes"; Loading module "interactionmodes";
+Skipping module "nodetypes"; Skipping module "iftypes";)
+(/home/waov2/texlive-2/texmf-var/tex/generic/config/language.def
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,))
+Beginning to dump on file luatex.fmt
+ (format=luatex 2022.8.25)
+3382 strings using 10290 bytes
+68809 memory locations dumped; current usage is 149&7701
+1880 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+50 preloaded fonts
+warning  (pdf backend): no pages of output.
+Transcript written on luatex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/luatex/luatex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/luatex/luatex.fmt installed.
+fmtutil [INFO]: --- remaking dvilualatex with luatex
+fmtutil: running `luatex -ini   -jobname=dvilualatex -progname=dvilualatex dvilualatex.ini' ...
+This is LuaTeX, Version 1.15.0 (TeX Live 2022)  (INITEX)
+ restricted system commands enabled.
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/dvilualatex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/lualatex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/luatexconfig.tex
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/pdftexconfig.tex))
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/latex.ltx
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/texsys.cfg)
+./texsys.aux found
+
+
+\@currdir set to: ./.
+
+
+Assuming \openin and \input 
+have the same search path.
+
+
+Defining UNIX/DOS style filename parser.
+
+catcodes, registers, parameters,
+LaTeX2e <2022-06-01> patch level 5
+(/home/waov2/texlive-2/texmf-dist/tex/latex/l3kernel/expl3.ltx
+(/home/waov2/texlive-2/texmf-dist/tex/latex/l3kernel/expl3-code.tex)) hacks,
+document commands, control, par, spacing, files, font encodings, lengths,
+====================================
+
+Local config file fonttext.cfg used
+
+====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fonttext.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fonttext.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omlenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omsenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ts1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/tuenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/tulmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/tulmss.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/tulmtt.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/lm/ts1lmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmss.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmtt.fd)))
+====================================
+
+Local config file fontmath.cfg used
+
+====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fontmath.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fontmath.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omlcmm.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omscmsy.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omxcmex.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ucmr.fd)))
+====================================
+
+Local config file preload.cfg used
+
+=====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/preload.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/preload.ltx)) page nos.,
+x-ref, environments, center, verbatim, math definitions, boxes, title,
+sectioning, contents, floats, footnotes, index, bibliography, output,
+ Unicode character data,
+(/home/waov2/texlive-2/texmf-dist/tex/generic/unicode-data/load-unicode-data.te
+x 
+load-unicode-data.tex v1.15 (2021-09-15)
+Reading Unicode data
+# UnicodeData-14.0.0.txt
+# Modified 2021-09-15 11:00:00 GMT [JAW]
+)
+===========================================
+Local configuration file hyphen.cfg used
+===========================================
+(/home/waov2/texlive-2/texmf-dist/tex/generic/babel/hyphen.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/generic/babel/luababel.def)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex))
+(/home/waov2/texlive-2/texmf-dist/tex/latex/firstaid/latex2e-first-aid-for-exte
+rnal-files.ltx)
+)))
+Beginning to dump on file dvilualatex.fmt
+ (format=dvilualatex 2022.8.25)
+22540 strings using 372265 bytes
+705005 memory locations dumped; current usage is 204&326333
+21156 multiletter control sequences
+\font\nullfont=nullfont
+\font\OMX/cmex/m/n/10=cmex10
+\font\tenln=line10
+\font\tenlnw=linew10
+\font\tencirc=lcircle10
+\font\tencircw=lcirclew10
+\font\OT1/cmr/m/n/5=cmr5
+\font\OT1/cmr/m/n/7=cmr7
+\font\OT1/cmr/m/n/10=cmr10
+\font\OML/cmm/m/it/5=cmmi5
+\font\OML/cmm/m/it/7=cmmi7
+\font\OML/cmm/m/it/10=cmmi10
+\font\OMS/cmsy/m/n/5=cmsy5
+\font\OMS/cmsy/m/n/7=cmsy7
+\font\OMS/cmsy/m/n/10=cmsy10
+14 preloaded fonts
+No pages of output.
+Transcript written on dvilualatex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/luatex/dvilualatex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/luatex/dvilualatex.fmt installed.
+fmtutil [INFO]: --- remaking latex with pdftex
+fmtutil: running `pdftex -ini   -jobname=latex -progname=latex -translate-file=cp227.tcx *latex.ini' ...
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (INITEX)
+ restricted \write18 enabled.
+ (/home/waov2/texlive-2/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+(/home/waov2/texlive-2/texmf-dist/tex/latex/latexconfig/latex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/pdftexconfig.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/latex.ltx
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/texsys.cfg)
+./texsys.aux found
+
+
+\@currdir set to: ./.
+
+
+Assuming \openin and \input 
+have the same search path.
+
+
+Defining UNIX/DOS style filename parser.
+
+catcodes, registers, parameters,
+LaTeX2e <2022-06-01> patch level 5
+(/home/waov2/texlive-2/texmf-dist/tex/latex/l3kernel/expl3.ltx
+(/home/waov2/texlive-2/texmf-dist/tex/latex/l3kernel/expl3-code.tex)) hacks,
+document commands, control, par, spacing, files, font encodings, lengths,
+====================================
+
+Local config file fonttext.cfg used
+
+====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fonttext.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fonttext.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omlenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omsenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ts1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmss.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmtt.fd)))
+====================================
+
+Local config file fontmath.cfg used
+
+====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fontmath.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fontmath.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omlcmm.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omscmsy.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omxcmex.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ucmr.fd)))
+====================================
+
+Local config file preload.cfg used
+
+=====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/preload.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/preload.ltx)) page nos.,
+x-ref, environments, center, verbatim, math definitions, boxes, title,
+sectioning, contents, floats, footnotes, index, bibliography, output,
+===========================================
+Local configuration file hyphen.cfg used
+===========================================
+(/home/waov2/texlive-2/texmf-dist/tex/generic/babel/hyphen.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/dumyhyph.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/zerohyph.tex))
+(/home/waov2/texlive-2/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/utf8.def
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omsenc.dfu)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1enc.dfu)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1enc.dfu)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ts1enc.dfu))
+(/home/waov2/texlive-2/texmf-dist/tex/latex/firstaid/latex2e-first-aid-for-exte
+rnal-files.ltx)
+ ) )
+Beginning to dump on file latex.fmt
+ (preloaded format=latex 2022.8.25)
+20361 strings of total length 371388
+293984 memory locations dumped; current usage is 204&292251
+18651 multiletter control sequences
+\font\nullfont=nullfont
+\font\c__fp_exp_intarray=cmr10 at 0.00002pt
+\font\c__fp_trig_intarray=cmr10 at 0.00003pt
+\font\c_initex_cctab=cmr10 at 0.00005pt
+\font\c_other_cctab=cmr10 at 0.00006pt
+\font\c_str_cctab=cmr10 at 0.00008pt
+\font\g__regex_state_active_intarray=cmr10 at 0.00009pt
+\font\g__regex_thread_info_intarray=cmr10 at 0.0001pt
+\font\g__regex_submatch_prev_intarray=cmr10 at 0.00012pt
+\font\g__regex_submatch_begin_intarray=cmr10 at 0.00014pt
+\font\g__regex_submatch_end_intarray=cmr10 at 0.00015pt
+\font\g__regex_submatch_case_intarray=cmr10 at 0.00017pt
+\font\g__regex_balance_intarray=cmr10 at 0.00018pt
+\font\OMX/cmex/m/n/10=cmex10
+\font\tenln=line10
+\font\tenlnw=linew10
+\font\tencirc=lcircle10
+\font\tencircw=lcirclew10
+\font\OT1/cmr/m/n/5=cmr5
+\font\OT1/cmr/m/n/7=cmr7
+\font\OT1/cmr/m/n/10=cmr10
+\font\OML/cmm/m/it/5=cmmi5
+\font\OML/cmm/m/it/7=cmmi7
+\font\OML/cmm/m/it/10=cmmi10
+\font\OMS/cmsy/m/n/5=cmsy5
+\font\OMS/cmsy/m/n/7=cmsy7
+\font\OMS/cmsy/m/n/10=cmsy10
+\font\c_code_cctab=cmr10 at 0.0002pt
+\font\c_document_cctab=cmr10 at 0.00021pt
+469252 words of font info for 28 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6081 has 183 ops out of 35111
+  2 for language 1
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on latex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/pdftex/latex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/pdftex/latex.fmt installed.
+fmtutil [INFO]: --- remaking pdfetex with pdftex
+fmtutil: running `pdftex -ini   -jobname=pdfetex -progname=pdfetex -translate-file=cp227.tcx *pdfetex.ini' ...
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (INITEX)
+ restricted \write18 enabled.
+ (/home/waov2/texlive-2/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+(/home/waov2/texlive-2/texmf-dist/tex/plain/config/pdfetex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/pdftexconfig.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/plain/etex/etex.src
+(/home/waov2/texlive-2/texmf-dist/tex/plain/base/plain.tex
+Preloading the plain format: codes, registers, parameters, fonts, more fonts,
+macros, math definitions, output routines, hyphenation
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/home/waov2/texlive-2/texmf-dist/tex/plain/etex/etexdefs.lib
+Skipping module "grouptypes"; Loading module "interactionmodes";
+Skipping module "nodetypes"; Skipping module "iftypes";)
+(/home/waov2/texlive-2/texmf-var/tex/generic/config/language.def
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,)
+(/home/waov2/texlive-2/texmf-dist/tex/plain/config/pdftexmagfix.tex) )
+Beginning to dump on file pdfetex.fmt
+ (preloaded format=pdfetex 2022.8.25)
+2926 strings of total length 43756
+7961 memory locations dumped; current usage is 203&7322
+1272 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+14787 words of font info for 50 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6075 has 181 ops out of 35111
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on pdfetex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/pdftex/pdfetex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/pdftex/pdfetex.fmt installed.
+fmtutil [INFO]: --- remaking dviluatex with luatex
+fmtutil: running `luatex -ini   -jobname=dviluatex -progname=dviluatex dviluatex.ini' ...
+This is LuaTeX, Version 1.15.0 (TeX Live 2022)  (INITEX)
+ restricted system commands enabled.
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/dviluatex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/luatex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/luatexconfig.tex
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/pdftexconfig.tex))
+(/home/waov2/texlive-2/texmf-dist/tex/generic/config/luatexiniconfig.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/unicode-data/load-unicode-data.te
+x 
+load-unicode-data.tex v1.15 (2021-09-15)
+Reading Unicode data
+# UnicodeData-14.0.0.txt
+# Modified 2021-09-15 11:00:00 GMT [JAW]
+) (/home/waov2/texlive-2/texmf-dist/tex/luatex/hyph-utf8/etex.src
+(/home/waov2/texlive-2/texmf-dist/tex/plain/base/plain.tex
+Preloading the plain format: codes, registers, parameters, fonts, more fonts,
+macros, math definitions, output routines, hyphenation
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/home/waov2/texlive-2/texmf-dist/tex/plain/etex/etexdefs.lib
+Skipping module "grouptypes"; Loading module "interactionmodes";
+Skipping module "nodetypes"; Skipping module "iftypes";)
+(/home/waov2/texlive-2/texmf-var/tex/generic/config/language.def
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,)))
+Beginning to dump on file dviluatex.fmt
+ (format=dviluatex 2022.8.25)
+3387 strings using 10309 bytes
+68809 memory locations dumped; current usage is 149&7701
+1880 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+50 preloaded fonts
+No pages of output.
+Transcript written on dviluatex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/luatex/dviluatex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/luatex/dviluatex.fmt installed.
+fmtutil [INFO]: --- remaking mf with mf-nowin
+fmtutil: running `mf-nowin -ini   -jobname=mf -progname=mf -translate-file=cp227.tcx mf.ini' ...
+This is METAFONT, Version 2.71828182 (TeX Live 2022) (INIMF)
+(/home/waov2/texlive-2/texmf-dist/web2c/cp227.tcx)
+(/home/waov2/texlive-2/texmf-dist/metafont/config/mf.ini
+(/home/waov2/texlive-2/texmf-dist/metafont/base/plain.mf
+Preloading the plain base, version 2.71: preliminaries,
+ basic constants and mathematical macros,
+ macros for converting from device-independent units to pixels,
+ macros and tables for various modes of operation,
+ macros for drawing and filling,
+ macros for proof labels and rules,
+ macros for character and font administration,
+and a few last-minute items.)
+(/home/waov2/texlive-2/texmf-dist/fonts/source/public/modes/modes.mf) )
+Beginning to dump on file mf.base
+ (preloaded base=mf 2022.8.25)
+2237 strings of total length 30229
+11955 memory locations dumped; current usage is 3679&7916
+1011 symbolic tokens
+Transcript written on mf.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/metafont/mf.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/metafont/mf.base installed.
+fmtutil [INFO]: --- remaking mptopdf with pdftex
+fmtutil: running `pdftex -ini   -jobname=mptopdf -progname=context -translate-file=cp227.tcx mptopdf.tex' ...
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (INITEX)
+ restricted \write18 enabled.
+ (/home/waov2/texlive-2/texmf-dist/web2c/cp227.tcx)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/context/mptopdf/mptopdf.tex
+(/home/waov2/texlive-2/texmf-dist/tex/context/base/mkii/syst-tex.mkii
+(/home/waov2/texlive-2/texmf-dist/tex/plain/base/plain.tex
+Preloading the plain format: codes, registers, parameters, fonts,
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+more fonts,
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping scaled \font in plain
+skipping scaled \font in plain
+skipping scaled \font in plain
+skipping \font in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+skipping \textfont in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+macros, math definitions,
+skipping used \tenex in plain
+output routines, hyphenation
+skipping \input in plain
+skipping \tenrm in plain
+)) (/home/waov2/texlive-2/texmf-dist/tex/context/base/mkii/supp-mis.mkii
+loading : ConTeXt Support Macros / Miscellaneous (2004.10.26)
+) (/home/waov2/texlive-2/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+loading : ConTeXt Support Macros / PDF
+) (/home/waov2/texlive-2/texmf-dist/tex/context/base/mkii/supp-mpe.mkii
+loading : ConTeXt Support Macros / MPS extensions
+) )
+Beginning to dump on file mptopdf.fmt
+ (preloaded format=mptopdf 2022.8.25)
+3321 strings of total length 49447
+13894 memory locations dumped; current usage is 116&13747
+1672 multiletter control sequences
+\font\nullfont=nullfont
+0 words of font info for 0 preloaded fonts
+0 hyphenation exceptions
+Hyphenation trie of length 256 has 0 ops out of 35111
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on mptopdf.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/pdftex/mptopdf.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/pdftex/mptopdf.fmt installed.
+fmtutil [INFO]: --- remaking lualatex with luahbtex
+fmtutil: running `luahbtex -ini   -jobname=lualatex -progname=lualatex lualatex.ini' ...
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (INITEX)
+ restricted system commands enabled.
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/lualatex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/luatexconfig.tex
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/pdftexconfig.tex))
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/latex.ltx
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/texsys.cfg)
+./texsys.aux found
+
+
+\@currdir set to: ./.
+
+
+Assuming \openin and \input 
+have the same search path.
+
+
+Defining UNIX/DOS style filename parser.
+
+catcodes, registers, parameters,
+LaTeX2e <2022-06-01> patch level 5
+(/home/waov2/texlive-2/texmf-dist/tex/latex/l3kernel/expl3.ltx
+(/home/waov2/texlive-2/texmf-dist/tex/latex/l3kernel/expl3-code.tex)) hacks,
+document commands, control, par, spacing, files, font encodings, lengths,
+====================================
+
+Local config file fonttext.cfg used
+
+====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fonttext.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fonttext.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omlenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omsenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ts1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/tuenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/tulmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/tulmss.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/tulmtt.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/lm/ts1lmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmss.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmtt.fd)))
+====================================
+
+Local config file fontmath.cfg used
+
+====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fontmath.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fontmath.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omlcmm.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omscmsy.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omxcmex.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ucmr.fd)))
+====================================
+
+Local config file preload.cfg used
+
+=====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/preload.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/preload.ltx)) page nos.,
+x-ref, environments, center, verbatim, math definitions, boxes, title,
+sectioning, contents, floats, footnotes, index, bibliography, output,
+ Unicode character data,
+(/home/waov2/texlive-2/texmf-dist/tex/generic/unicode-data/load-unicode-data.te
+x 
+load-unicode-data.tex v1.15 (2021-09-15)
+Reading Unicode data
+# UnicodeData-14.0.0.txt
+# Modified 2021-09-15 11:00:00 GMT [JAW]
+)
+===========================================
+Local configuration file hyphen.cfg used
+===========================================
+(/home/waov2/texlive-2/texmf-dist/tex/generic/babel/hyphen.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/generic/babel/luababel.def)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex))
+(/home/waov2/texlive-2/texmf-dist/tex/latex/firstaid/latex2e-first-aid-for-exte
+rnal-files.ltx)
+))
+Beginning to dump on file lualatex.fmt
+ (format=lualatex 2022.8.25)
+22535 strings using 372241 bytes
+704997 memory locations dumped; current usage is 204&326329
+21156 multiletter control sequences
+\font\nullfont=nullfont
+\font\OMX/cmex/m/n/10=cmex10
+\font\tenln=line10
+\font\tenlnw=linew10
+\font\tencirc=lcircle10
+\font\tencircw=lcirclew10
+\font\OT1/cmr/m/n/5=cmr5
+\font\OT1/cmr/m/n/7=cmr7
+\font\OT1/cmr/m/n/10=cmr10
+\font\OML/cmm/m/it/5=cmmi5
+\font\OML/cmm/m/it/7=cmmi7
+\font\OML/cmm/m/it/10=cmmi10
+\font\OMS/cmsy/m/n/5=cmsy5
+\font\OMS/cmsy/m/n/7=cmsy7
+\font\OMS/cmsy/m/n/10=cmsy10
+14 preloaded fonts
+warning  (pdf backend): no pages of output.
+Transcript written on lualatex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/luahbtex/lualatex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/luahbtex/lualatex.fmt installed.
+fmtutil [INFO]: --- remaking etex with pdftex
+fmtutil: running `pdftex -ini   -jobname=etex -progname=etex -translate-file=cp227.tcx *etex.ini' ...
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (INITEX)
+ restricted \write18 enabled.
+ (/home/waov2/texlive-2/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+(/home/waov2/texlive-2/texmf-dist/tex/plain/config/etex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/plain/etex/etex.src
+(/home/waov2/texlive-2/texmf-dist/tex/plain/base/plain.tex
+Preloading the plain format: codes, registers, parameters, fonts, more fonts,
+macros, math definitions, output routines, hyphenation
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/home/waov2/texlive-2/texmf-dist/tex/plain/etex/etexdefs.lib
+Skipping module "grouptypes"; Loading module "interactionmodes";
+Skipping module "nodetypes"; Skipping module "iftypes";)
+(/home/waov2/texlive-2/texmf-var/tex/generic/config/language.def
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,) )
+Beginning to dump on file etex.fmt
+ (preloaded format=etex 2022.8.25)
+2916 strings of total length 43340
+7961 memory locations dumped; current usage is 203&7291
+1270 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+14787 words of font info for 50 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6075 has 181 ops out of 35111
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on etex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/pdftex/etex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/pdftex/etex.fmt installed.
+fmtutil [INFO]: --- remaking pdflatex with pdftex
+fmtutil: running `pdftex -ini   -jobname=pdflatex -progname=pdflatex -translate-file=cp227.tcx *pdflatex.ini' ...
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (INITEX)
+ restricted \write18 enabled.
+ (/home/waov2/texlive-2/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+(/home/waov2/texlive-2/texmf-dist/tex/latex/latexconfig/pdflatex.ini
+(/home/waov2/texlive-2/texmf-dist/tex/generic/tex-ini-files/pdftexconfig.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/latex.ltx
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/texsys.cfg)
+./texsys.aux found
+
+
+\@currdir set to: ./.
+
+
+Assuming \openin and \input 
+have the same search path.
+
+
+Defining UNIX/DOS style filename parser.
+
+catcodes, registers, parameters,
+LaTeX2e <2022-06-01> patch level 5
+(/home/waov2/texlive-2/texmf-dist/tex/latex/l3kernel/expl3.ltx
+(/home/waov2/texlive-2/texmf-dist/tex/latex/l3kernel/expl3-code.tex)) hacks,
+document commands, control, par, spacing, files, font encodings, lengths,
+====================================
+
+Local config file fonttext.cfg used
+
+====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fonttext.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fonttext.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omlenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omsenc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ts1enc.def)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmr.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmss.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1cmtt.fd)))
+====================================
+
+Local config file fontmath.cfg used
+
+====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fontmath.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/fontmath.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omlcmm.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omscmsy.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omxcmex.fd)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ucmr.fd)))
+====================================
+
+Local config file preload.cfg used
+
+=====================================
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/preload.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/preload.ltx)) page nos.,
+x-ref, environments, center, verbatim, math definitions, boxes, title,
+sectioning, contents, floats, footnotes, index, bibliography, output,
+===========================================
+Local configuration file hyphen.cfg used
+===========================================
+(/home/waov2/texlive-2/texmf-dist/tex/generic/babel/hyphen.cfg
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/hyphen.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/dumyhyph.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/generic/hyphen/zerohyph.tex))
+(/home/waov2/texlive-2/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/utf8.def
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/omsenc.dfu)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ot1enc.dfu)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/t1enc.dfu)
+(/home/waov2/texlive-2/texmf-dist/tex/latex/base/ts1enc.dfu))
+(/home/waov2/texlive-2/texmf-dist/tex/latex/firstaid/latex2e-first-aid-for-exte
+rnal-files.ltx)
+ ) )
+Beginning to dump on file pdflatex.fmt
+ (preloaded format=pdflatex 2022.8.25)
+20362 strings of total length 371414
+293990 memory locations dumped; current usage is 204&292257
+18651 multiletter control sequences
+\font\nullfont=nullfont
+\font\c__fp_exp_intarray=cmr10 at 0.00002pt
+\font\c__fp_trig_intarray=cmr10 at 0.00003pt
+\font\c_initex_cctab=cmr10 at 0.00005pt
+\font\c_other_cctab=cmr10 at 0.00006pt
+\font\c_str_cctab=cmr10 at 0.00008pt
+\font\g__regex_state_active_intarray=cmr10 at 0.00009pt
+\font\g__regex_thread_info_intarray=cmr10 at 0.0001pt
+\font\g__regex_submatch_prev_intarray=cmr10 at 0.00012pt
+\font\g__regex_submatch_begin_intarray=cmr10 at 0.00014pt
+\font\g__regex_submatch_end_intarray=cmr10 at 0.00015pt
+\font\g__regex_submatch_case_intarray=cmr10 at 0.00017pt
+\font\g__regex_balance_intarray=cmr10 at 0.00018pt
+\font\OMX/cmex/m/n/10=cmex10
+\font\tenln=line10
+\font\tenlnw=linew10
+\font\tencirc=lcircle10
+\font\tencircw=lcirclew10
+\font\OT1/cmr/m/n/5=cmr5
+\font\OT1/cmr/m/n/7=cmr7
+\font\OT1/cmr/m/n/10=cmr10
+\font\OML/cmm/m/it/5=cmmi5
+\font\OML/cmm/m/it/7=cmmi7
+\font\OML/cmm/m/it/10=cmmi10
+\font\OMS/cmsy/m/n/5=cmsy5
+\font\OMS/cmsy/m/n/7=cmsy7
+\font\OMS/cmsy/m/n/10=cmsy10
+\font\c_code_cctab=cmr10 at 0.0002pt
+\font\c_document_cctab=cmr10 at 0.00021pt
+469252 words of font info for 28 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6081 has 183 ops out of 35111
+  2 for language 1
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on pdflatex.log.
+fmtutil [INFO]: log file copied to: /home/waov2/texlive-2/texmf-var/web2c/pdftex/pdflatex.log
+fmtutil [INFO]: /home/waov2/texlive-2/texmf-var/web2c/pdftex/pdflatex.fmt installed.
+fmtutil [INFO]: successfully rebuilt formats: 13
+fmtutil [INFO]: total formats: 13
+fmtutil [INFO]: exiting with status 0
+running package-specific postactions
+postaction install script for dvipdfmx: perl /home/waov2/texlive-2/tlpkg/tlpostcode/dvipdfmx.pl
+finished with package-specific postactions
+
+ ----------------------------------------------------------------------
+ The following environment variables contain the string "tex"
+ (case-independent).  If you're doing anything but adding personal
+ directories to the system paths, they may well cause trouble somewhere
+ while running TeX.  If you encounter problems, try unsetting them.
+ 
+ Please ignore spurious matches unrelated to TeX. (To omit this check,
+ set the environment variable TEXLIVE_INSTALL_ENV_NOCHECK.)
+
+    TEXLIVE_INSTALL_NO_DISKCHECK=1
+ ----------------------------------------------------------------------
+
+
+Welcome to TeX Live!
+
+
+See /home/waov2/texlive-2/index.html for links to documentation.
+The TeX Live web site (https://tug.org/texlive/) contains any updates and corrections. TeX Live is a joint project of the TeX user groups around the world; please consider supporting it by joining the group best for you. The list of groups is available on the web at https://tug.org/usergroups.html.
+
+
+Add /home/waov2/texlive-2/texmf-dist/doc/man to MANPATH.
+Add /home/waov2/texlive-2/texmf-dist/doc/info to INFOPATH.
+Most importantly, add /home/waov2/texlive-2/bin/x86_64-linux
+to your PATH for current and future sessions.
